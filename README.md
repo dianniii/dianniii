@@ -1,4 +1,5 @@
 ## Hello 🤍
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&colorStart=006400&colorMid=32CD32&colorEnd=228B22&height=200&text=✨Hi%20there!%20✨&fontSize=30&fontAlignY=40&fontColor=FFFFFF)
 
 I'm Diana and I'm a Frontend Developer based in Saint-Petersburg. 
 <br><br>
