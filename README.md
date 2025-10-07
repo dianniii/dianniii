@@ -4,7 +4,6 @@
 I'm Diana and I'm a Frontend Developer based in Saint-Petersburg. 
 <br><br>
 
-- 🎓 I’m currently learning **React**, **TypeScript** and **Vue**
 - 💬 In addition to programming, I enjoy reading books and playing tennis.
 
 
