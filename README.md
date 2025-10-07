@@ -5,8 +5,8 @@ I'm Diana and I'm a Frontend Developer based in Saint-Petersburg.
 <br><br>
 
 - 💼 With over 2 years of professional experience in frontend development
+- 🎯 My development philosophy: deeply understand business processes to create optimal solutions, not just write code
 - 💬 In addition to programming, I enjoy reading books and playing tennis.
-
 
 ### Technologies:
 <div>
